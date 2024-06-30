@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <TasksProvider>
-        <h1>Day off in Kyoto</h1>
+        <h1>Todo list</h1>
         <AddTask />
         <TaskList />
       </TasksProvider>
